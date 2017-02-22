@@ -1,4 +1,4 @@
-# This is a website collaboration repository. All content created here is property of Nicholas Marshall and William Tierney. 
+# This is a website collaboration repository. All content created here is property of NMar and abillyt. 
 
 Fancy Splash Page describing what the website does. 
 
