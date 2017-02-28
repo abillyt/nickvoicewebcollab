@@ -49,4 +49,4 @@ chase your tale<br>
 tale talk<br>
 vocal social<br>
 voso<br>
-
+read ready<br>
