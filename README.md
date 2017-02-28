@@ -24,11 +24,11 @@ paul bunyon
 
 
 being upvoted allows achievement/rank: 
-*rookie
-pro
-all-star
-hall of famer
-legend
+*rookie <br>
+pro <br>
+all-star <br>
+hall of famer <br>
+legend <br>
 goat (special acheivement for the number 1 overall user?)
 /*
 
