@@ -15,15 +15,15 @@ Advertisements on the site, sponsored stories.
 (down the line) create an app for on-the-go listening.
 leaderboard
 
-reputation yields rewards:<br>
-energizer bunny<br>
+## reputation yields rewards:<br>
+*energizer bunny<br>
 the little engine that could<br>
 rocky balboa<br>
 ???<br>
-paul bunyon<br>
+paul bunyon<br>/*
 
 
-being upvoted allows achievement/rank: <br>
+## being upvoted allows achievement/rank: <br>
 *rookie <br>
 pro <br>
 all-star <br>
@@ -36,8 +36,8 @@ Program site to disallow users from interacting with audio they haven't listened
 
 Short stories posted will be relatively short, to yeild a max 1-minute recording. (details are pending - maybe 2-minute max recording?)
 
-# site names for brainstorm: <br>
-critical speaking<br>
+## site names for brainstorm: <br>
+*critical speaking<br>
 give it your best<br>
 your words my voice<br>
 did you hear that<br>
@@ -46,5 +46,5 @@ talk to me<br>
 chase your tale<br>
 tale talk<br>
 vocal social<br>
-voso<br>
+voso<br>/*
 
