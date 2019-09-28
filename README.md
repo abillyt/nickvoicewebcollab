@@ -7,7 +7,7 @@ Users login to the site to their feed, suggestions to follow, suggestions to lis
 Most recent moderator-posted short story.<br> 
 Short stories posted will be relatively short, to yeild a max 1-minute recording. (details are pending - maybe 2-minute max recording?)<br>
 Other thought: Writing is limited to a word count, or is tagged within certain ranges of word count. <br>
-Super Short (up to 50 words) Short (51 to 200 words) Mid (201-450 words) and long (451-1000 words)
+Super Short (up to 100 words) Short (101 to 500 words) Mid (501 to 1000 words) and long (1000+ words -> max 5000)
 
 ## Operating statement / Purpose Statement / Mission Statement: 
 To establish a fun, engaging, and entertaining social site for writers, voice over artists, and listeners. 
