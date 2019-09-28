@@ -10,7 +10,7 @@ Other thought: Writing is limited to a word count, or is tagged within certain r
 Super Short (up to 50 words) Short (51 to 200 words) Mid (201-450 words) and long (451-1000 words)
 
 ## Operating statement / Purpose Statement / Mission Statement: 
-To establish a fun and engaging social site for writers, voice over artists, and listeners. 
+To establish a fun, engaging, and entertaining social site for writers, voice over artists, and listeners. 
 
 ## basic nature of site operation: <br>
 Users will be either: Writer, Reader, or Listener (or BUSINESS*)<br>
