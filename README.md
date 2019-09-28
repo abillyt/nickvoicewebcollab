@@ -30,7 +30,7 @@ Ability to record through the site (pipe dream?) <br>
 
 
 ## user abilities: <br>
-Follow users <br>
+Follow writers and/or readers <br>
 Share stories to facebook, twitter... any social media. <br>
 Writers earn credit by submitting stories, and earn or lose credit based on the social reaction to the particular story. <br>
 Interaction with narrations: upvote/like + tagged(as hilarious!, excellent!, impression!, difficult listen!, creepy! - multiple marks are allowed in the same interaction)<br>
