@@ -1,4 +1,4 @@
-# This is a website collaboration repository. All content created here is property of njm1108 and abillyt. 
+# This is a website collaboration repository. All content created here is property of njm1108 and abillyt. Current url: voiceshorts.com
 
 Video opening to campfire with audio, VO ending in the name of the site ("alright now, Listen here...") <br>
 Pan or zoom out to stars/sky interface <br>
